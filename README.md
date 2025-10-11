@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋 My name is Phạm An<br>I was born in 2004, I have more than 1 year of experience<br>✉️  You can contact me at phamngocbaoan.it@gmail.com
+Hi 👋 My name is Phạm An.<br>I'm a Web Developer born in 2004 with over 1 year of experience in building modern, responsive websites.<br>✉️ You can contact me at phamngocbaoan.it@gmail.com
 
 
 # Stack:
